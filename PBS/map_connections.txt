@@ -1,0 +1,22 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# backrooms (3) - backrooms (4)
+3,East,6,4,West,0
+# backrooms (7) - backrooms (4)
+7,North,3,4,South,0
+# backrooms (9) - backrooms (4)
+9,West,0,4,East,9
+# backrooms (2) - backrooms (3)
+2,South,0,3,North,13
+# backrooms (5) - backrooms (3)
+5,North,17,3,South,0
+# backrooms (10) - backrooms (3)
+10,East,14,3,West,0
+# backrooms (6) - backrooms (2)
+6,West,0,2,East,87
+# backrooms (5) - backrooms (6)
+5,East,22,6,West,0
+# backrooms (8) - backrooms (7)
+8,North,0,7,South,9
+# backrooms (4) - backrooms (11)
+4,0,11,11,88,0

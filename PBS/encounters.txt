@@ -1,0 +1,83 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[021] # Route 2
+Land,21
+    50,RATTATA,12,15
+    30,POOCHYENA,11,15
+    10,SHINX,10,12
+    10,SHINX,10,11
+Water,2
+    60,MAGIKARP,7,10
+    30,GOLDEEN,11,14
+    10,STARYU,12,15
+OldRod
+    70,MAGIKARP,7,10
+    30,MAGIKARP,9,15
+GoodRod
+    60,GOLDEEN,12,14
+    20,FINNEON,12,15
+    20,MAGIKARP,12,17
+SuperRod
+    40,FINNEON,12,15
+    40,GOLDEEN,12,14
+    15,STARYU,12,15
+    5,STARYU,14,17
+HeadbuttLow
+    50,PINECO,11,13
+    30,LEDYBA,6,8
+    19,SPINARAK,9,12
+    1,MUNCHLAX,11,14
+HeadbuttHigh
+    50,PINECO,11,13
+    30,WURMPLE,6,8
+    20,SPINARAK,9,12
+#-------------------------------
+[003] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[004] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[005] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[006] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[007] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[008] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[009] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[010] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[011] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
+#-------------------------------
+[012] # backrooms
+Cave,1
+    50,SOMETHING,5,10
+    10,UNOWN,5,10
