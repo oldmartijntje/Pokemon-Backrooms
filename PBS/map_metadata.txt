@@ -14,28 +14,34 @@ MapPosition = 0,13,12
 [004]   # backrooms
 Name = backrooms
 ShowArea = false
+HealingSpot = 4,7,5
 MapPosition = 0,13,12
 #-------------------------------
 [005]   # backrooms
 Name = backrooms
+HealingSpot = 5,7,5
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
 [006]   # backrooms
 Name = backrooms
+HealingSpot = 5,32,27
 MapPosition = 0,13,11
 #-------------------------------
 [007]   # backrooms
 Name = backrooms
+HealingSpot = 4,18,46
 MapPosition = 0,13,10
 MapSize = 2,11
 #-------------------------------
 [008]   # backrooms
 Name = backrooms
+HealingSpot = 8,7,4
 MapPosition = 0,13,12
 #-------------------------------
 [009]   # backrooms
 Name = backrooms
+HealingSpot = 4,31,20
 MapPosition = 0,14,10
 #-------------------------------
 [010]   # backrooms
@@ -44,6 +50,7 @@ MapPosition = 0,13,10
 #-------------------------------
 [011]   # backrooms
 Name = backrooms
+HealingSpot = 3,17,25
 MapPosition = 0,14,10
 #-------------------------------
 [012]   # backrooms
